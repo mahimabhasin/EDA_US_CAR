@@ -1,2 +1,2 @@
 # EDA_US_CAR
-This project includes Exploratory Dta analysis of US cars dataset.
+This project includes Exploratory Data analysis of US cars dataset.
